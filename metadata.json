@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Retenciones IIBB - Bailac Argentina",
+  "description": "Sistema de emisión de certificados de retención de Ingresos Brutos y Convenio Multilateral para DGR San Juan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
